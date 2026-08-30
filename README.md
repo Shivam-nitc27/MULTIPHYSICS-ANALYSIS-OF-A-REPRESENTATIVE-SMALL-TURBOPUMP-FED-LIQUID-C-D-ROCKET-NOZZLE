@@ -4,6 +4,12 @@ To design, simulate, and validate a Convergent-Divergent rocket nozzle for a sma
 
 ---
 
+# Project - Technical Report
+
+📄 [Technical Report](Technical_Report.pdf)
+
+---
+
 # 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 & 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲
 
 Designed a parametric C-D nozzle in Autodesk Fusion 360 based on analytical design principles, predicting thrust, specific impulse (Isp), and exit velocity using Rocket Propulsion Analysis (RPA) software.
